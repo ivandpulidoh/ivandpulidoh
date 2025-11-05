@@ -41,7 +41,7 @@ Este proyecto innovador demuestra una aproximación moderna a la automatización
 *   **Descripción:** Un framework de automatización web que integra un servidor **MCP (Mock, Control, Proxy)**. Este servidor intercepta y modifica el tráfico de red para simular escenarios complejos y dinámicos, permitiendo que las pruebas se adapten en tiempo real sin depender de datos estáticos.
 *   **Concepto:** Basado en la arquitectura descrita en [este artículo](https://medium.com/@peyman.iravani/understanding-mcp-server-architecture-for-qa-automation-a89e426de099), este enfoque desacopla la lógica de las pruebas de las dependencias del entorno.
 *   **Tecnologías:** Selenium/Cypress, Node.js (para el servidor MCP), WebSockets, JavaScript.
-*   **Enlace al Proyecto:** [Link a tu proyecto de automatización con MCP]
+*   **Enlace al Proyecto:** [Ir a github]
 
 ---
 
@@ -49,7 +49,7 @@ Este proyecto innovador demuestra una aproximación moderna a la automatización
 Este proyecto demuestra mi capacidad para construir soluciones de automatización completas y eficientes.
 *   **Descripción:** Un framework de automatización en Python diseñado para pruebas **móviles, web y de APIs**, todo dentro de un único proyecto. Incluye funcionalidades para la **ejecución paralela** de pruebas, optimizando el tiempo y los recursos.
 *   **Tecnologías:** Python, Appium, Selenium WebDriver, Requests, Pytest.
-*   **Enlace al Proyecto:** [[Link a tu proyecto de automatización](https://github.com/ivandpulidoh/Python-automation-multiplatform)]
+*   **Enlace al Proyecto:** [[Ir a github](https://github.com/ivandpulidoh/Python-automation-multiplatform)]
 
 ---
 
@@ -57,7 +57,7 @@ Este proyecto demuestra mi capacidad para construir soluciones de automatizació
 Este proyecto muestra mi dominio de las mejores prácticas de BDD y diseño de software en automatización.
 *   **Descripción:** Un robusto framework de automatización para pruebas web utilizando **Java** y **Serenity BDD**. La implementación sigue el patrón de diseño **Screenplay**, que promueve pruebas más limpias, escalables y fáciles de leer, centradas en los actores y sus interacciones con el sistema.
 *   **Tecnologías:** Java, Serenity BDD, Cucumber, Maven/Gradle, Patrón Screenplay.
-*   **Enlace al Proyecto:** [Link a tu proyecto de Serenity BDD]
+*   **Enlace al Proyecto:** [Ir a github]
 
 ---
 
@@ -68,7 +68,7 @@ Un proyecto full-stack que muestra mis habilidades en desarrollo de software y d
 *   **Despliegue:** Desplegado en **Azure**.
 *   **Aplicación Móvil:** Desarrollada en **Flutter** para una experiencia de usuario fluida en iOS y Android.
 *   **Tecnologías:** .NET 9, Azure, Docker, Kubernetes (opcional, si aplica), Flutter, IA/Machine Learning.
-*   **Enlace al Proyecto:** [[Link a tu proyecto GymPro](https://github.com/ivandpulidoh/ogmatrainer-backend)]
+*   **Enlace al Proyecto:** [[Ir a github](https://github.com/ivandpulidoh/ogmatrainer-backend)]
 
 ---
 
@@ -77,7 +77,7 @@ Un proyecto de desarrollo web que destaca mi experiencia en plataformas de comer
 *   **Descripción:** Una plataforma de e-commerce robusta desarrollada en **Laravel**, con funcionalidades completas para la gestión de productos, usuarios y pedidos.
 *   **Características:** Integración de sistemas de **envíos**, coordinación de **puntos de recogida** y múltiples **pasarelas de pago** para una experiencia de compra completa.
 *   **Tecnologías:** Laravel, PHP, MySQL, JavaScript, HTML, CSS, APIs de pasarelas de pago.
-*   **Enlace al Proyecto:** [[Link a tu proyecto de E-commerce](https://github.com/ivandpulidoh/modamedellinbackend)]
+*   **Enlace al Proyecto:** [[Ir a github](https://github.com/ivandpulidoh/modamedellinbackend)]
 
 ---
 
