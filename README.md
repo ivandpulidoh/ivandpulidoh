@@ -1,4 +1,3 @@
-## Hi there 👋
 # ¡Hola, soy Ivan! 👋
 
 Soy un apasionado Ingeniero de QA con una sólida trayectoria en el aseguramiento de la calidad de software desde 2019. Graduado como Ingeniero de Software, combino mis conocimientos en desarrollo con una profunda experiencia en la automatización de pruebas para ofrecer productos de software robustos y de alta calidad.
