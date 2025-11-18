@@ -37,11 +37,14 @@ Aquí te presento algunos de mis proyectos más relevantes que demuestran mis ha
 ---
 
 ### **1. Automatización Inteligente con Servidor MCP (Mock, Control, Proxy)**
-Este proyecto innovador demuestra una aproximación moderna a la automatización, permitiendo la toma de decisiones inteligentes basadas en el contexto de la aplicación.
-*   **Descripción:** Un framework de automatización web que integra un servidor **MCP (Mock, Control, Proxy)**. Este servidor intercepta y modifica el tráfico de red para simular escenarios complejos y dinámicos, permitiendo que las pruebas se adapten en tiempo real sin depender de datos estáticos.
-*   **Concepto:** Basado en la arquitectura descrita en [este artículo](https://medium.com/@peyman.iravani/understanding-mcp-server-architecture-for-qa-automation-a89e426de099), este enfoque desacopla la lógica de las pruebas de las dependencias del entorno.
-*   **Tecnologías:** Selenium/Cypress, Node.js (para el servidor MCP), WebSockets, JavaScript.
-*   **Enlace al Proyecto:** [Ir a github]
+Este proyecto utiliza un Selenium MCP Server para crear automatizaciones de pruebas utilizando Behavior-Driven Development (BDD), Python y el patrón Page Object Model (POM). El sistema es capaz de construir una automatización completa utilizando únicamente los pasos descritos en un archivo de características (feature), y cuenta con la capacidad de reparar automáticamente escenarios rotos.
+*   Características Principales
+   🤖 Automatización Inteligente: Genera código de automatización a partir de descripciones en lenguaje natural (Gherkin)
+   🔧 Auto-reparación: Capacidad de detectar y reparar escenarios de prueba fallidos automáticamente
+   📋 BDD con Behave: Implementación de pruebas usando el framework Behave para Python
+   🏗️ Page Object Model: Arquitectura de pruebas siguiendo el patrón POM para mejor mantenibilidad
+   🔌 Integración MCP: Utiliza el Selenium MCP Server para interactuar con navegadores mediante herramientas MCP
+*   **Enlace al Proyecto:** [Ir a github](https://github.com/ivandpulidoh/MCP-QA-SERVER-PYTHON)
 
 ---
 
