@@ -4,7 +4,7 @@ Soy un apasionado **Ingeniero de QA y Especialista en IA/Agentes** con una sóli
 
 Actualmente me estoy preparando para la certificación **AWS Certified AI Practitioner** 🎓
 
-![AWS Certified AI Practitioner](https://raw.githubusercontent.com/ivandpulidoh/ivandpulidoh/main/aws-ai-practitioner.png)
+![AWS Certified AI Practitioner]([https://raw.githubusercontent.com/ivandpulidoh/ivandpulidoh/main/aws-ai-practitioner.png](https://techreformers.com/wp-content/uploads/2024/09/aws-certified-ai-practitioner-e1729464297594.png))
 
 <br>
 
