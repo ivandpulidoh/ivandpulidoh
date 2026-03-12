@@ -5,7 +5,7 @@ Soy un apasionado **Ingeniero de QA y Especialista en IA/Agentes** con una sóli
 Actualmente me estoy preparando para la certificación **AWS Certified AI Practitioner** 🎓
 
 ![AWS Certified AI Practitioner](https://i.ibb.co/20mzhQXy/aws-certified-ai-practitioner-e1729464297594.png)
-![MCSD: App Builder] <img width="340" height="340" alt="MCSD-App_Builder-600x600" src="https://github.com/user-attachments/assets/727758d4-e490-4b1c-8c7d-3cff15d85411" />
+<img width="200" height="200" alt="MCSD-App_Builder-600x600" src="https://github.com/user-attachments/assets/727758d4-e490-4b1c-8c7d-3cff15d85411" />
 
 <br>
 
